@@ -18,3 +18,4 @@ urls_bat = r'E:\maizi.bat'
 course_id_list = [874, 928]
 
 运行效果图
+![](https://raw.githubusercontent.com/ydxred/MaiziMianfei/master/111.jpg)
